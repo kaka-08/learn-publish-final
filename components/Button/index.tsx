@@ -9,4 +9,4 @@ class Button extends Component{
 
 }
 
-export default new Button().render();
+export default Button;

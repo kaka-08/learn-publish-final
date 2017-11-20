@@ -7,7 +7,6 @@ class Alert extends Component{
       <p>this is Alert</p>
     )
   }
-
 }
 
-export default new Alert().render();
+export default Alert;
