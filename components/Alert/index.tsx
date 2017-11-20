@@ -1,6 +1,6 @@
-import React,{Components} from "react";
+import React,{Component} from "react";
 
-class Alert extends Components{
+class Alert extends Component{
 
   render(){
     return(
@@ -10,4 +10,4 @@ class Alert extends Components{
 
 }
 
-export default Alert;
+export default new Alert().render();
